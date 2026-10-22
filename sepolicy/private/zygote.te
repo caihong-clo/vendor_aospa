@@ -3,5 +3,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Play Integrity hooks are set up in the zygote, ahead of any app
-get_prop(zygote, pih_disable_prop)

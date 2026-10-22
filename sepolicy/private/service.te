@@ -8,13 +8,9 @@ type pocket_service, system_api_service, system_server_service, service_manager_
 type lineage_health_interface_service, system_api_service, system_server_service, service_manager_type;
 
 # PIH
-type pih_manager_service, app_api_service, system_api_service, system_server_service, service_manager_type;
 
 # Game space
 type game_space_service, system_api_service, system_server_service, service_manager_type;
-
-# Obscura
-type obscura_service, system_api_service, system_server_service, service_manager_type;
 
 # PowerInsight
 type power_insight_service, system_api_service, system_server_service, service_manager_type;
@@ -27,7 +23,4 @@ type refresh_rate_manager_service, system_api_service, system_server_service, se
 
 # Linearmotor Vibrator
 type linearmotor_vibrator_service, system_api_service, system_server_service, service_manager_type;
-
-
-
 
